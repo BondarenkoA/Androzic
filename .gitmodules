@@ -1,0 +1,12 @@
+[submodule "modules/ActionBarSherlock"]
+	path = modules/ActionBarSherlock
+	url = https://github.com/JakeWharton/ActionBarSherlock.git
+[submodule "modules/NineOldAndroids"]
+	path = modules/NineOldAndroids
+	url = https://github.com/JakeWharton/NineOldAndroids.git
+[submodule "modules/ShowcaseView"]
+	path = modules/ShowcaseView
+	url = https://github.com/andreynovikov/ShowcaseView.git
+[submodule "modules/androzic-library"]
+	path = modules/androzic-library
+	url = https://github.com/BondarenkoA/androzic-library.git
